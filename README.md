@@ -22,3 +22,11 @@ Font Awesome for task icons
 
 ✨ Aesthetic Inspiration
 The UI is inspired by a retro film noir vibe, using a black-and-white background and soft grey UI elements to mimic the feel of analog photography.
+
+⚙️ How to Run
+Clone or download the repo:
+1)git clone https://github.com/Hitesh04codebot/Dark-Aesthetic---To-do-list.git
+cd to-do-list
+
+2)Open index.html in your browser.
+
